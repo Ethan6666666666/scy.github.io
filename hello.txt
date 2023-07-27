@@ -1,14 +1,9 @@
-hello git
-hello git
-hello git
-hello git
-scy is coming
-scy is coming
-scy is coming
-scy is coming
-hello git
-hello git
-hello git
-hello git
-hello git
-hot-fix test
+public class Hello{
+	public static void main(String[]args){
+		System.out.println("hello world");
+		System.out.println("hello world");
+	
+	}
+
+
+}
